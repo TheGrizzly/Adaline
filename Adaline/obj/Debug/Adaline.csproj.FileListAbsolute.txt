@@ -1,0 +1,7 @@
+C:\Users\pc\AppData\Local\Temporary Projects\Adaline\bin\Debug\Adaline.exe.config
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Adaline\Adaline\bin\Debug\Adaline.exe.config
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Adaline\Adaline\bin\Debug\Adaline.exe
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Adaline\Adaline\bin\Debug\Adaline.pdb
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Adaline\Adaline\obj\Debug\Adaline.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Adaline\Adaline\obj\Debug\Adaline.exe
+C:\Users\pc\Desktop\Escuela\ceti\5to\AI\Adaline\Adaline\obj\Debug\Adaline.pdb
